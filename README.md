@@ -16,7 +16,7 @@ To use this tool, navigate to IMDB and find the season page you are looking for.
 
 Then copy the url and run the renamer tool like so:
 
-    renamer.py <path-to-folder> <imdb-link>
+    python3 renamer.py <path-to-folder> <imdb-link>
     
 The folder path can be relative or absolute. 
 
