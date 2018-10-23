@@ -2,11 +2,11 @@
 
 This is a python3 script that takes a folder path and the season link on imdb and renames video files in the folder. The resulting syntax will be:
 
-    *n_[episode_name]* 
+    n_[episode_name] 
    
 For example the Simpsons season 5, episode 1 will go from:
 
-    *s05e01* --> *1_Homer's Barbershop Quartet*
+    s05e01 --> 1_Homer's Barbershop Quartet
     
 The episode numbering is so that the episodes won't go out of order if the folder is sorted alphabetically.   
  
